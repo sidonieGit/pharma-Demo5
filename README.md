@@ -45,7 +45,7 @@ Bien que l'application ne se connecte pas réellement pour des opérations CRUD 
 2.  **Cloner le dépôt :**
 
     ```bash
-    git clone [https://github.com/votre_utilisateur/Pharma5.git](https://github.com/votre_utilisateur/Pharma5.git)
+    git clone https://github.com/sidonieGit/pharma-Demo5.git
     cd Pharma5
     ```
 
